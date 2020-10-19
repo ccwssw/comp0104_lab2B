@@ -241,7 +241,7 @@ main (argc, argv)
       if (t)
         printf ("hallo, welt\n");
       else
-        puts ("Hallo, welt");
+        puts ("Bonjour, monde");
     }
 
   exit (0);
