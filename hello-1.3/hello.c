@@ -239,9 +239,9 @@ main (argc, argv)
   else
     {
       if (t)
-        printf ("hello, world\n");
+        printf ("hallo, welt\n");
       else
-        puts ("Hello, world!");
+        puts ("Hallo, welt");
     }
 
   exit (0);
